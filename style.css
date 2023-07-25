@@ -1,0 +1,10 @@
+.box{
+    border:solid 3px green;
+    height: 100vh;
+}
+
+ /* Custom hover effect */
+.button:hover {
+    background-color: #007bff; /* Change the background color on hover */
+    border-color:red; /* Change the border color on hover */
+}
